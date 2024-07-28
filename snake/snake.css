@@ -1,0 +1,15 @@
+.game_board{
+    border:  1px solid;
+}
+
+.container  {
+    text-align: center;
+}
+.score{
+    font-size: 24px;
+}
+.reset{
+    font-size: 24px;
+    border-radius: 10px;
+    cursor: pointer;
+}
